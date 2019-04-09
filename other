@@ -1,0 +1,7 @@
+<!----{% if not g.user %} -->
+            <!--<li><a href="{{ url_for('login') }}">Log In / Register</a></li> --->
+
+           <!--- {% else %}
+            <li><a href="{{ url_for('profile') }}">Profile</a></li>
+            <li><a href="{{ url_for('logout') }}">Logout</a></li>
+            {% endif %} -->
